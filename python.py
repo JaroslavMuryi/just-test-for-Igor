@@ -1,4 +1,4 @@
-def Hi():
-  print(hi_Igor)
+def hi():
+  print("hi_Igor")
 
 hi()
